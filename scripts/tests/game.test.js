@@ -4,6 +4,7 @@
  */
 
 /**
+ *source code: https://github.com/Code-Institute-Solutions/Jest_Testing_Part2/blob/main/09_Final_Codealong_2/scripts/tests/game.test.js
  * import the functions from game.js to test
  * they must be exported from game.js
  */
